@@ -8,6 +8,9 @@ public class SumaNumeros {
 	
 	/** Cambio realizado desde rama feature-suma */
 	
+	/** Comentario después de realizar fusión  entre ramas */
+
+	
 	public static void main(String[] args) {  
 		
 		Scanner scanner = new Scanner(System.in);  
