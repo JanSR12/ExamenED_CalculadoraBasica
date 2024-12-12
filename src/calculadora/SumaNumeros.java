@@ -6,6 +6,8 @@ public class SumaNumeros {
 	
 	/** Este programa te pide dos numeros y genera la suma de ellos */
 	
+	/** Cambio realizado desde rama feature-suma */
+	
 	public static void main(String[] args) {  
 		
 		Scanner scanner = new Scanner(System.in);  
